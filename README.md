@@ -1,5 +1,6 @@
 # Real-time-Retail-Analytics-YOLO26-Voice-AI-Interrogation-with-Gemini-2-5-Flash
-Real time Retail Analytics YOLO26 Voice AI Interrogation with Gemini 2 5 Flash
+
+[![Watch the video](https://github.com/pyresearch/Real-time-Retail-Analytics-YOLO26-Voice-AI-Interrogation-with-Gemini-2-5-Flash/blob/main/Real%20time%20Retail%20Analytics%20YOLO26%20Voice%20AI%20Interrogation%20with%20Gemini%202%205%20Flash.png)](https://youtu.be/Siq48TM7Yno)
 
 
 I’m excited to share my latest video tutorial:
